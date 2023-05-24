@@ -1,1 +1,1 @@
-# datascience-tutorials
+# Machine Learning Cookbook
